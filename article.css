@@ -7,6 +7,25 @@
 #title {
 	font-size: 35px;
 }
+#heading {
+	/*article title*/
+	font-size: 45px;
+	font-weight: bold;
+	font-family: georgia, helvetica;
+	font-style: italic;
+}
+
+#subtitle {
+	font-size: 25px;
+	font-weight: normal;
+	color: dimgrey;
+}
+#subtitlehr {
+	color: grey;
+	height: 1px;
+	margin-bottom: 15px;
+}
+
 body {
 	margin-top: 20px;
 	margin-left: 0;

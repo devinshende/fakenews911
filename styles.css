@@ -28,7 +28,7 @@ body {
 .navbar {
 	/*margin: 0 100px;*/
 	display: grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 	grid-gap: 30px;
 	font-family: sans-serif;
 	font-weight: 530;

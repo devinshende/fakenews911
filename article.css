@@ -7,6 +7,11 @@
 #title {
 	font-size: 35px;
 }
+#title:hover {
+	color: #888;
+	/*font-size: 40px;*/
+}
+
 #heading {
 	/*article title*/
 	font-size: 45px;
@@ -38,5 +43,58 @@ body {
 }
 
 p {
-	font-size: 24px;
+	font-size: 26px;
 }
+
+#backitup {
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #aaa;
+}
+
+.caption {
+	font-size: 24px;
+	font-family: pacifico;
+	color: #789;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+#author {
+	display: block;
+	font-size: 22px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #555;
+}
+
+#date {
+	font-size: 16px;
+	font-family: sans-serif;
+	color: #777;
+}
+
+h4.sources {
+	font-size: 35px;
+	color: #333;
+	font-family: helvetica;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+h4.sources:hover {
+	color: #888;
+}
+ul.sources li {
+	font-size: 25px;
+	color: #444;
+	font-family: serif;
+}
+
+
+
+
+
+
+
+

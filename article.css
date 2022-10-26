@@ -33,6 +33,7 @@ img {
 	font-size: 20px;
 	font-weight: normal;
 	color: dimgrey;
+	font-family: sans-serif;
 }
 #subtitlehr {
 	color: grey;
@@ -56,13 +57,13 @@ p {
 }
 
 .caption {
-	font-size: 24px;
+	font-size: 20px;
 	font-family: pacifico;
 	color: #789;
 	margin-top: 10px;
 	margin-bottom: 20px;
+	/*font-style: italic;*/
 }
-
 #author {
 	display: block;
 	font-size: 22px;
@@ -82,13 +83,14 @@ h4.sources {
 	margin-bottom: 0;
 	margin-top: 0;
 }
-h4.sources:hover {
-	color: #888;
-}
 ul.sources li {
-	font-size: 25px;
-	color: #444;
+	font-size: 20px;
+	color: #555;
 	font-family: serif;
+	margin-bottom: 10px;
+}
+li a {
+	color: #999;
 }
 a.link {
 	font-style: italic;

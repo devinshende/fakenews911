@@ -2,7 +2,6 @@
     font-family: chomsky;
     src: url(chomsky.woff), url(chomsky.otf);
 }
-
 #title {
     font-size: 50px;
     text-align: center;
@@ -28,7 +27,6 @@ body {
 	margin: 40px;
 }
 .navbar {
-	/*margin: 0 100px;*/
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 	grid-gap: 30px;

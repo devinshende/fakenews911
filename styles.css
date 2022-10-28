@@ -1,6 +1,6 @@
 @font-face {
     font-family: chomsky;
-    src: url(chomsky.otf);
+    src: url(chomsky.woff), url(chomsky.otf);
 }
 
 #title {

@@ -3,14 +3,13 @@ Done
 - lihop
 - anti semitism one 
 
+in progress
+- antisemitism two
 
-
-
-Todo
 
 - antisemiticism split 
-- pop down for that and architects
+- pop down for architects
 - every other article
-
-change heading to The New York Crimes
-
+- animation bug?
+- browser and OS support
+- add more pages to index little thumbnailsTodo
